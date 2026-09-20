@@ -144,6 +144,7 @@ This repository contains my LeetCode solutions.
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -345,6 +346,7 @@ This repository contains my LeetCode solutions.
 | [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
