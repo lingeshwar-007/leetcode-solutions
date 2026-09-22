@@ -64,6 +64,7 @@ This repository contains my LeetCode solutions.
 | [3705-find-the-largest-almost-missing-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3840-find-x-value-of-array-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 | [4284-smallest-stable-index-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
@@ -112,6 +113,7 @@ This repository contains my LeetCode solutions.
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
+| [3840-find-x-value-of-array-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -423,4 +425,8 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0866-rectangle-overlap](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1501-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3840-find-x-value-of-array-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3840-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
