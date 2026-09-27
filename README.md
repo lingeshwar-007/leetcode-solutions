@@ -139,6 +139,7 @@ This repository contains my LeetCode solutions.
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -161,6 +162,7 @@ This repository contains my LeetCode solutions.
 | [0225-implement-stack-using-queues](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -431,4 +433,8 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [3840-find-x-value-of-array-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3840-find-x-value-of-array-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
