@@ -126,6 +126,7 @@ This repository contains my LeetCode solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -290,6 +291,7 @@ This repository contains my LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -401,6 +403,7 @@ This repository contains my LeetCode solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [1022-unique-paths-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1022-unique-paths-iii) |
 ## Enumeration
@@ -446,6 +449,7 @@ This repository contains my LeetCode solutions.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
