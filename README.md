@@ -128,6 +128,7 @@ This repository contains my LeetCode solutions.
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -158,6 +159,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -292,6 +294,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -450,6 +453,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
