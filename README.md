@@ -140,6 +140,7 @@ This repository contains my LeetCode solutions.
 | [0678-valid-parenthesis-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [0953-reverse-only-letters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0953-reverse-only-letters) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -168,6 +169,7 @@ This repository contains my LeetCode solutions.
 | [0234-palindrome-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -459,6 +461,7 @@ This repository contains my LeetCode solutions.
 | [0022-generate-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
