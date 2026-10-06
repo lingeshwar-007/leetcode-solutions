@@ -142,6 +142,7 @@ This repository contains my LeetCode solutions.
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0886-score-of-parentheses) |
 | [0953-reverse-only-letters](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0953-reverse-only-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1297-maximum-number-of-balloons](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -170,6 +171,7 @@ This repository contains my LeetCode solutions.
 | [0678-valid-parenthesis-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -313,6 +315,7 @@ This repository contains my LeetCode solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1487-cinema-seat-allocation](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1487-cinema-seat-allocation) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -462,6 +465,7 @@ This repository contains my LeetCode solutions.
 | [0032-longest-valid-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0886-score-of-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
