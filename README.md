@@ -56,6 +56,7 @@ This repository contains my LeetCode solutions.
 | [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -422,6 +423,7 @@ This repository contains my LeetCode solutions.
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1212-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
