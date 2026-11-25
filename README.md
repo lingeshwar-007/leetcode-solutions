@@ -67,6 +67,7 @@ This repository contains my LeetCode solutions.
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 | [4284-smallest-stable-index-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
@@ -92,6 +93,7 @@ This repository contains my LeetCode solutions.
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -256,6 +258,7 @@ This repository contains my LeetCode solutions.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -470,4 +473,16 @@ This repository contains my LeetCode solutions.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
