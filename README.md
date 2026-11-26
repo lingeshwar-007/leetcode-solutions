@@ -115,6 +115,7 @@ This repository contains my LeetCode solutions.
 | [1501-circle-and-rectangle-overlapping](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3840-find-x-value-of-array-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3840-find-x-value-of-array-ii) |
@@ -378,6 +379,7 @@ This repository contains my LeetCode solutions.
 | [0898-transpose-matrix](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
