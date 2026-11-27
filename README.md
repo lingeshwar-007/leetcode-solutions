@@ -68,6 +68,7 @@ This repository contains my LeetCode solutions.
 | [3840-find-x-value-of-array-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3840-find-x-value-of-array-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 | [4284-smallest-stable-index-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
@@ -314,6 +315,7 @@ This repository contains my LeetCode solutions.
 | [1240-stone-game-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1522-stone-game-iii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
@@ -326,6 +328,7 @@ This repository contains my LeetCode solutions.
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
