@@ -69,6 +69,7 @@ This repository contains my LeetCode solutions.
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3934-smallest-unique-subarray](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 | [4284-smallest-stable-index-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4284-smallest-stable-index-i) |
 ## Hash Table
@@ -199,6 +200,7 @@ This repository contains my LeetCode solutions.
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4107-find-missing-elements](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -329,6 +331,7 @@ This repository contains my LeetCode solutions.
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
@@ -411,6 +414,7 @@ This repository contains my LeetCode solutions.
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anbazhaganlingesh-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Graph Theory
 |  |
 | ------- |
